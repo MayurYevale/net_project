@@ -7,4 +7,8 @@ version 1 created
 
 Updated in bug1 branch
 
+
 This added in master simultaneously with branch bug2
+
+added in bug2 branch
+
