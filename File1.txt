@@ -12,3 +12,4 @@ This added in master simultaneously with branch bug2
 
 added in bug2 branch
 
+Change : for stash test for WI6 IS in progress
