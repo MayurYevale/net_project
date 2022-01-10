@@ -12,6 +12,9 @@ This added in master simultaneously with branch bug2
 
 added in bug2 branch
 
-Change : for stash test for WI6 IS in progress
+Change 1: for stash test for WI6 IS in progress
 
-change : WI6 on local master to test normal push.
+change 2: WI6 on local master to test normal push.**/**
+
+change 3:  ON remoter master by teammate for bug3
+
