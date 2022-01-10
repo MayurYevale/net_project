@@ -1,7 +1,7 @@
 Hello World! 
 changed 12345627
 
-Version is new ......
+Version is new ......??
 
 version 1 created
 
@@ -17,4 +17,10 @@ Change 1: for stash test for WI6 IS in progress
 change 2: WI6 on local master to test normal push.**/**
 
 change 3:  ON remoter master by teammate for bug3
+
+
+change : WI6 on local master to test normal push.!!
+
+change : on local master, for WI7 
+
 
